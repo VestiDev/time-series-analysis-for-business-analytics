@@ -4,7 +4,7 @@
 
 This project contains the Jupyter Notebooks and supporting files for _Time Series Analysis for Business Analytics_ with Walter R. Paczkowski, Ph.D.
 
-These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
+These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/9781098101947).
 
 It contains both the exercises (/notebooks), possibly the solutions (/solutions), as well as any data or files needed (/data).
 
